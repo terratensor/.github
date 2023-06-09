@@ -4,4 +4,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/terratensor/.github/assets/129882753/628d3214-20ea-4da0-8fa2-17eec1814a28">
   <img alt="terratensor logo" src="">
 </picture>
-<p><br>Шахматы, шашки, корпоративы.</p>

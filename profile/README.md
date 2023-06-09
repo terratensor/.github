@@ -1,3 +1,4 @@
-![terratensor](https://github.com/terratensor/.github/assets/129882753/071aa7ec-c216-4197-8080-cec03b34e2d8)
+![terratensor](https://github.com/terratensor/.github/assets/129882753/193fa5f5-cfaf-485c-9628-7429eb77c55d)
+
 
 Шахматы, шашки, корпоративы.
